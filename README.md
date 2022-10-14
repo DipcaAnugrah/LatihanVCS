@@ -42,3 +42,10 @@ git add "nama file"
 -cara commit
 git commit -m "keterangannya"
 ![img.14](screenshot/p14.png)
+ 
+6. cara menambahkan remote server pada git dan cara push atau mengirim file yang kita rubah di komputer ke GitHub repository kita
+![img.15](screenshot/p15.png)
+
+# Proses menambahkan file kedalam sebuah README.md menggunakan Visual Code
+![img.16](screenshot/p16.png)
+![img.17](screenshot/p17.png)
